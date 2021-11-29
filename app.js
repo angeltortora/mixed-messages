@@ -10,7 +10,7 @@ const getRandMsg = () => {
         ' is typically the first person to offer paying the bill',
         ' enjoys entertainment more than studying',
         ' enjoys social activities over solitude',
-        ' enjos playing video games over watching movies',
+        ' enjoys playing video games over watching movies',
         ' loves to debate and/or discuss complex topics',
         ' is good at starting conversations'
     ];
